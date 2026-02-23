@@ -28,3 +28,13 @@ Configure the pull request:
 5. Your TA reviews and merges when everything passes
 
 6. Submit the Pull Request URL in the Text input in your Assignment in TalentLMS.
+
+## About
+
+I am an AI student, and this repository is used to submit Prework Day 1 and Day 2 assignments.
+
+## Setup
+
+```bash
+git clone https://github.com/LevelUp-Applied-AI/prework-day-1-and-2-momenalhamza.git
+cd prework-day-1-and-2-momenalhamza

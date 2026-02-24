@@ -10,14 +10,13 @@
 
 | Specification | Your value |
 |---------------|------------|
-| Operating System | (e.g., Windows 11 22H2, macOS 14.4, Ubuntu 22.04) |
-| OS Build / Version | |
-| RAM | (e.g., 16 GB) |
-| CPU Model | (e.g., Intel Core i7-12700H, Apple M2) |
-| CPU Cores | |
-| Free Disk Space | (e.g., 45 GB free) |
-| Internet Speed (Download) | (from speedtest.net — Mbps) |
-
+| Operating System | Microsoft Windows 11 Home |
+| OS Build / Version | 10.0.26200 (Build 26200) |
+| RAM | 15.8 GB |
+| CPU Model | Intel(R) Core(TM) i5-10500H CPU @ 2.50GHz |
+| CPU Cores | 6 |
+| Free Disk Space | C: 29.28 GB free, D: 483.22 GB free |
+| Internet Speed (Download) | 169.60 Mbps |
 ---
 
 ## Evidence Checklist
@@ -34,9 +33,11 @@
 
 
 **Windows only:**
-- [x] Screenshot: `wsl -l -v` output showing WSL 2<img width="952" height="296" alt="image" src="https://github.com/user-attachments/assets/55adff4f-28be-44ec-a1cb-4842d613366d" />
+- [x] Screenshot: `wsl -l -v` output showing WSL 2<img width="751" height="233" alt="image" src="https://github.com/user-attachments/assets/85b4609c-5dc0-4fcd-99fe-eb450bb08ca0" />
 
-- [x] Screenshot: `wsl --status` output<img width="986" height="271" alt="image" src="https://github.com/user-attachments/assets/c146b390-639f-4077-80a5-d200e40e5453" />
+
+- [x] Screenshot: `wsl --status` output<img width="751" height="233" alt="image" src="https://github.com/user-attachments/assets/a20d88ce-e422-4f90-84fb-27b056f170aa" />
+
 
 
 ---
